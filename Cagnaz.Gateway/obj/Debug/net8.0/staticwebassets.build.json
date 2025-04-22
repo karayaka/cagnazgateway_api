@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L04Rv27R4TpQviTvm04d2JUJLN06oyJ0c5RQdL10PVU=",
+  "Source": "Cagnaz.Gateway",
+  "BasePath": "_content/Cagnaz.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
