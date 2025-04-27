@@ -29,9 +29,7 @@ var summaries = new[]
 app.MapGet("/ping", () =>
 {
     return DateTime.Now;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+});
 
 await app.UseOcelot();
 

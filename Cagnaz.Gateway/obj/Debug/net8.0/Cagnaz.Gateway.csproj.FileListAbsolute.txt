@@ -42,3 +42,4 @@
 /Users/cagrikarayaka/RiderProjects/gateway_api/Cagnaz.Gateway/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/cagrikarayaka/RiderProjects/gateway_api/Cagnaz.Gateway/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
 /Users/cagrikarayaka/RiderProjects/gateway_api/Cagnaz.Gateway/bin/Debug/net8.0/Ocelot.dll
+/Users/cagrikarayaka/RiderProjects/gateway_api/Cagnaz.Gateway/obj/Debug/net8.0/Cagnaz.Gateway.sourcelink.json
